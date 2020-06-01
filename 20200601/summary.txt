@@ -1,0 +1,17 @@
+kids:
+result.append(max_candy_kid <= extraCandies + kids)
+can directly input bool inside an array
+
+find_sum:
+make good use of enumerate when willing to find number/string in array
+
+inverse_num:
+str[::-1] inverse the string
+** means pow()
+-123[:0:-1] = 321
+
+palindrome:
+can compare the first and second part to get result
+
+romantoint:
+make good use of dictionary.
